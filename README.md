@@ -26,7 +26,7 @@ I enjoy building web applications, solving complex problems, and continuously le
 
 ## 🧠 Projects
 
-### 🍱 Tiffin Delivery Service Platform *(Full MERN Stack Project)*
+### 🍱 Tiffin Delivery Service Platform (MERN)
 
 A **multi-role tiffin service platform** connecting customers, service providers, and delivery partners.
 **Tech:** React, Redux Toolkit, Node.js, Express.js, MongoDB, Semantic UI, Module CSS
@@ -37,7 +37,7 @@ A **multi-role tiffin service platform** connecting customers, service providers
 
 ---
 
-### 🩺 Doctor Appointment System
+### 🩺 Doctor Appointment System (MERN)
 
 A full-stack web app that connects patients with doctors for seamless appointment booking.
 **Tech:** React, Node.js, Express.js, MongoDB, CSS, Bootstrap
@@ -47,7 +47,7 @@ A full-stack web app that connects patients with doctors for seamless appointmen
 
 ---
 
-### 🧾 Employee Management System
+### 🧾 Employee Management System (React js)
 
 A frontend web app for managing employee records and events.
 **Tech:** React, Tailwind CSS, JavaScript, LocalStorage, Context API
